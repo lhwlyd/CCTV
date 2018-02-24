@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatCafeToVr", "CatCafeToVr.csproj", "{2EDD409A-6958-051E-0639-4663C0708133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatCafeToVr.Editor", "CatCafeToVr.Editor.csproj", "{C22FEEBC-8094-F50F-3E61-DD1B641579F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EDD409A-6958-051E-0639-4663C0708133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDD409A-6958-051E-0639-4663C0708133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDD409A-6958-051E-0639-4663C0708133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDD409A-6958-051E-0639-4663C0708133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C22FEEBC-8094-F50F-3E61-DD1B641579F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22FEEBC-8094-F50F-3E61-DD1B641579F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22FEEBC-8094-F50F-3E61-DD1B641579F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22FEEBC-8094-F50F-3E61-DD1B641579F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
